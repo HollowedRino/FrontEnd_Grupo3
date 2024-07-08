@@ -1,6 +1,7 @@
 {
   "name": "tienda-online",
   "version": "0.1.0",
+  "homepage": "https://hollowedrino.github.io/FrontEnd_Grupo3/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.4",
